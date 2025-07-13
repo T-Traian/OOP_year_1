@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "manufacturer": "Corsair",
+        "model": "Vengeance",
+        "name": "RAM",
+        "price": 79.99,
+        "specifications": "16GB DDR4",
+        "type": "Memory"
+    },
+    {
+        "id": 2,
+        "manufacturer": "ASUS",
+        "model": "ROG STRIX RTX 4080 OC",
+        "name": "GeForce RTX 4090",
+        "price": 1999.99,
+        "specifications": "24GB GDDR6X 2640MHz boost DLSS 3.0",
+        "type": "GPU"
+    },
+    {
+        "id": 3,
+        "manufacturer": "G.Skill",
+        "model": "F5-6400J3239G16GX2-TZ5RK",
+        "name": "Trident Z5 RGB",
+        "price": 189.99,
+        "specifications": "32GB (2x16GB) DDR5-6400MHz CL32",
+        "type": "RAM"
+    },
+    {
+        "id": 4,
+        "manufacturer": "Samsung",
+        "model": "MZ-V8P2T0B/AM",
+        "name": "980 PRO 2TB",
+        "price": 159.99,
+        "specifications": "PCIe 4.0 NVMe SSD 7000MB/s read 5100MB/s write",
+        "type": "Storage"
+    },
+    {
+        "id": 5,
+        "manufacturer": "ASUS",
+        "model": "ROG MAXIMUS Z790 HERO",
+        "name": "ROG MAXIMUS Z790 HERO",
+        "price": 629.99,
+        "specifications": "Intel Z790 DDR5 PCIe 5.0 Thunderbolt 4",
+        "type": "Motherboard"
+    },
+    {
+        "id": 6,
+        "manufacturer": "Corsair",
+        "model": "CP-9020074-NA",
+        "name": "HX1000i",
+        "price": 269.99,
+        "specifications": "1000W 80+ Platinum ATX 3.0 PCIe 5.0",
+        "type": "PSU"
+    },
+    {
+        "id": 7,
+        "manufacturer": "Lian Li",
+        "model": "O11DEW",
+        "name": "Lian Li O11 Dynamic EVO",
+        "price": 169.99,
+        "specifications": "Premium ATX Mid Tower Reversible Design",
+        "type": "Case"
+    },
+    {
+        "id": 8,
+        "manufacturer": "ARCTIC",
+        "model": "ACFRE00068A",
+        "name": "ARCTIC Liquid Freezer II 360",
+        "price": 129.99,
+        "specifications": "360mm AIO RGB Controller VRM Cooling",
+        "type": "Cooling"
+    },
+    {
+        "id": 9,
+        "manufacturer": "Seagate",
+        "model": "ZP4000GM3A013",
+        "name": "FireCuda 530",
+        "price": 449.99,
+        "specifications": "4TB PCIe Gen4 NVMe 7300MB/s read",
+        "type": "Storage"
+    },
+    {
+        "id": 10,
+        "manufacturer": "AMD",
+        "model": "7900XTX",
+        "name": "Radeon RX 7900 XTX",
+        "price": 999.99,
+        "specifications": "24GB GDDR6 2.5GHz Game Clock FSR 3.0",
+        "type": "GPU"
+    }
+]

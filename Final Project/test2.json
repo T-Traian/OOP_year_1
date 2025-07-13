@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "manufacturer": "Intel",
+        "model": "i7",
+        "name": "CPU1",
+        "price": 300,
+        "specifications": "8-core",
+        "type": "CPU"
+    },
+    {
+        "id": 4,
+        "manufacturer": "Samsung",
+        "model": "Evo",
+        "name": "SSD1",
+        "price": 150,
+        "specifications": "1TB",
+        "type": "Storage"
+    }
+]
