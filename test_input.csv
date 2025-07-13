@@ -1,9 +1,0 @@
-ID,Name,Type,Manufacturer,Model,Price,Specifications
-1,Ryzen 7 5800X,CPU,AMD,5800X,299.99,8 cores 16 threads 3.8GHz base 4.7GHz boost
-2,RTX 4090,GPU,NVIDIA,RTX 4080 FE,699.99,10GB GDDR6X 8704 CUDA cores
-3,Vengeance LPX 32GB,RAM,Corsair,CMK32GX4M2D3600C18,159.99,32GB (2x16GB) DDR4-3600MHz CL18
-4,ROG Strix B550-F,Motherboard,ASUS,ROG STRIX B550-F GAMING,189.99,AMD B550 ATX WiFi 6 PCIe 4.0
-5,Samsung 970 EVO Plus,Storage,Samsung,MZ-V7S1T0B/AM,119.99,1TB NVMe M.2 SSD 3500MB/s read
-6,RM850x,PSU,Corsair,CP-9020200-NA,149.99,850W 80+ Gold Fully Modular
-7,4000D Airflow,Case,Corsair,CC-9011201-WW,94.99,Mid Tower ATX Tempered Glass
-8,NH-D15,Cooling,Noctua,NH-D15,99.99,Dual Tower CPU Cooler 140mm fans 
